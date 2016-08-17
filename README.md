@@ -4,7 +4,7 @@
 
 + [Javascript](#)
 + [Objective C](#)
-+ [Ruby](#)
++ [Ruby](https://github.com/syesoftware/style-guides/blob/master/languages/ruby.md)
 + [PHP](#)
 + [C#](#)
 + [Swift](#)
