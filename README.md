@@ -8,7 +8,7 @@
 + [PHP](#)
 + [C#](#)
 + [Swift](#)
-+ [Java](languages/java.md)
++ [Java](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
 + [.NET](#)
 
 ## Frameworks
