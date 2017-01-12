@@ -13,12 +13,12 @@
 
 ## Mobile
 ### Android
-* + [Code](https://source.android.com/source/code-style.html)
-* + [Design](https://developer.android.com/design/index.html)
++ [Code](https://source.android.com/source/code-style.html)
++ [Design](https://developer.android.com/design/index.html)
 
 ### iOS
-* + [Code](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
-* + [Design](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
++ [Code](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
++ [Design](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
 
 ## Frameworks
 
