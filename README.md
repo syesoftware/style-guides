@@ -2,7 +2,7 @@
 
 ## Programming Languages
 
-+ [Javascript](#)
++ [Javascript](https://google.github.io/styleguide/javascriptguide.xml)
 + [Objective C](#)
 + [Ruby](https://github.com/DockYard/styleguides/blob/master/engineering/ruby.md)
 + [PHP](#)
