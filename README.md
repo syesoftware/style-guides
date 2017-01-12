@@ -2,13 +2,13 @@
 
 ## Programming Languages
 
-+ [Javascript](#)
++ [Javascript](https://google.github.io/styleguide/javascriptguide.xml)
 + [Objective C](#)
-+ [Ruby](https://github.com/syesoftware/style-guides/blob/master/languages/ruby.md)
++ [Ruby](https://github.com/DockYard/styleguides/blob/master/engineering/ruby.md)
 + [PHP](#)
 + [C#](#)
 + [Swift](#)
-+ [Java](languages/java.md)
++ [Java](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
 + [.NET](#)
 
 ## Frameworks
