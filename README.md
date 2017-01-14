@@ -5,7 +5,7 @@
 + [Javascript](https://google.github.io/styleguide/javascriptguide.xml)
 + [Objective C](#)
 + [Ruby](https://github.com/DockYard/styleguides/blob/master/engineering/ruby.md)
-+ [PHP](#)
++ [PHP](http://www.php-fig.org/psr/psr-2/)
 + [C#](#)
 + [Swift](#)
 + [Java](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
@@ -26,8 +26,9 @@
 + [EmberJS](#)
 + [AngularJS](#)
 + [Sinatra](#)
++ [CakePHP](https://book.cakephp.org/3.0/en/contributing/cakephp-coding-conventions.html)
 
 ## UX Development
 
-+ [HTML](#)
-+ [CSS](#)
++ [HTML](https://google.github.io/styleguide/htmlcssguide.xml)
++ [CSS](https://google.github.io/styleguide/htmlcssguide.xml)
