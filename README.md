@@ -5,7 +5,7 @@
 + [Javascript](https://google.github.io/styleguide/javascriptguide.xml)
 + [Ruby](https://github.com/DockYard/styleguides/blob/master/engineering/ruby.md)
 + [PHP](http://www.php-fig.org/psr/psr-2/)
-+ [C#](#)
++ [C#](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 + [Java](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
 + [.NET](#)
 
