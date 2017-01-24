@@ -7,7 +7,6 @@
 + [PHP](http://www.php-fig.org/psr/psr-2/)
 + [C#](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 + [Java](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
-+ [.NET](#)
 
 ## Mobile
 ### Android
