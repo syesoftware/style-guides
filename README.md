@@ -3,13 +3,10 @@
 ## Programming Languages
 
 + [Javascript](https://google.github.io/styleguide/javascriptguide.xml)
-+ [Objective C](#)
 + [Ruby](https://github.com/DockYard/styleguides/blob/master/engineering/ruby.md)
-+ [PHP](#)
-+ [C#](#)
-+ [Swift](#)
++ [PHP](http://www.php-fig.org/psr/psr-2/)
++ [C#](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
 + [Java](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
-+ [.NET](#)
 
 ## Mobile
 ### Android
@@ -18,16 +15,11 @@
 
 ### iOS
 + [Code](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
+  + [Guide](https://github.com/github/swift-style-guide)
+  + [Tools](https://github.com/realm/SwiftLint)
 + [Design](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
-
-## Frameworks
-
-+ [Ruby On Rails](#)
-+ [EmberJS](#)
-+ [AngularJS](#)
-+ [Sinatra](#)
 
 ## UX Development
 
-+ [HTML](#)
-+ [CSS](#)
++ [HTML](https://google.github.io/styleguide/htmlcssguide.xml)
++ [CSS](https://google.github.io/styleguide/htmlcssguide.xml)
